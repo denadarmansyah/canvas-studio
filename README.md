@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Canvas Studio
 
 Collaborative visual workspace prototype untuk **graphic design + infinite-style whiteboard**. Arah visual: bright neo-brutalism, cream canvas, black outlines, blue/lime/coral accents, tanpa maskot atau karakter.
@@ -85,3 +86,6 @@ Ini adalah **fondasi MVP/prototype**, bukan layanan produksi siap menerima data 
 Pilihan permission di dialog Share pada prototype ini adalah rancangan UI dan belum menjadi kontrol keamanan server. Jangan membuka room sensitif ke publik sebelum autentikasi dan permission enforcement dibuat. File yang diunggah disimpan sebagai data URL di dokumen; untuk penggunaan besar, pindahkan ke object storage dan simpan referensinya.
 
 Autosave lokal memakai browser storage. Export JSON adalah cara paling aman untuk backup proyek saat ini.
+=======
+# canvas-studio
+>>>>>>> 8b747479ca81838074673971e4d42d5087351342
