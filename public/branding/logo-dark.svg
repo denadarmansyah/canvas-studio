@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 64" fill="none">
+  <path d="M16 14L46 10L54 20V50L20 56L10 46V20L16 14Z" fill="#D8F878"/>
+  <path d="M12 10L42 6L50 16V46L16 52L6 42V16L12 10Z" fill="#5267FF" stroke="#FFFEFA" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M18 17L38 14L43 21V37L21 41L14 34V22L18 17Z" fill="#D8F878" stroke="#171717" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M23 25H34M28.5 19.5V34.5" stroke="#171717" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M35 35L49 32L51 44L38 49L33 43L35 35Z" fill="#FF987C" stroke="#171717" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="66" y="34" fill="#FFFEFA" font-family="'Space Grotesk', -apple-system, sans-serif" font-weight="700" font-size="25" letter-spacing="-0.9">canvas studio</text>
+  <text x="67" y="50" fill="#D8F878" font-family="'DM Mono', monospace" font-weight="600" font-size="10" letter-spacing="2.1">CREATIVE PLATFORM</text>
+</svg>

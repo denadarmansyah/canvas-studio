@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 320" width="640" height="320" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="640" height="320" rx="22" fill="#EEF0FF" stroke="#171717" stroke-width="2.5"/>
+    <rect x="14" y="14" width="612" height="292" rx="16" fill="url(#fineGrid)"/>
+    
+  <rect x="40" y="46" width="572" height="240" rx="16" fill="#171717"/>
+  <rect x="34" y="40" width="572" height="240" rx="16" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <text x="58" y="82" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="20" fill="#171717">Personalized Creative Setup in 3 Steps</text>
+    <rect x="58" y="106" width="160" height="144" rx="12" fill="#D8F878" stroke="#171717" stroke-width="1.8"/>
+    <text x="74" y="138" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">01 · ROLE</text>
+    <text x="74" y="168" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">Designer / Lead</text>
+    <rect x="240" y="106" width="160" height="144" rx="12" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+    <text x="256" y="138" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#D8F878">02 · MODE</text>
+    <text x="256" y="168" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#FFFEFA">Primary Studio</text>
+    <rect x="422" y="106" width="160" height="144" rx="12" fill="#FFF0EC" stroke="#171717" stroke-width="1.8"/>
+    <text x="438" y="138" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">03 · BRAND</text>
+    <text x="438" y="168" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">Accent &amp; Palette</text>
+  
+</svg>

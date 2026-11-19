@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 360" width="560" height="360" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="560" height="360" rx="18" fill="#EEF0FF" stroke="#171717" stroke-width="2.5"/>
+    <rect x="14" y="14" width="532" height="332" rx="12" fill="url(#fineGrid)"/>
+    
+  <rect x="30" y="32" width="512" height="308" rx="14" fill="#171717"/>
+  <rect x="24" y="26" width="512" height="308" rx="14" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <rect x="24" y="26" width="512" height="34" rx="14" fill="#171717"/>
+    <circle cx="44" cy="43" r="4" fill="#FF987C"/><circle cx="58" cy="43" r="4" fill="#F4C95D"/><circle cx="72" cy="43" r="4" fill="#D8F878"/>
+    
+  <rect x="178" y="32" width="86" height="25" rx="12.5" fill="#171717"/>
+  <rect x="176" y="30" width="86" height="25" rx="12.5" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+  <text x="219" y="46" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#FFFEFA">DESKTOP</text>
+    
+  <rect x="272" y="32" width="74" height="25" rx="12.5" fill="#171717"/>
+  <rect x="270" y="30" width="74" height="25" rx="12.5" fill="#F7F5EF" stroke="#171717" stroke-width="1.8"/>
+  <text x="307" y="46" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">TABLET</text>
+    
+  <rect x="354" y="32" width="72" height="25" rx="12.5" fill="#171717"/>
+  <rect x="352" y="30" width="72" height="25" rx="12.5" fill="#D8F878" stroke="#171717" stroke-width="1.8"/>
+  <text x="388" y="46" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">MOBILE</text>
+    <!-- Left Element Panel -->
+    <rect x="36" y="74" width="110" height="246" rx="8" fill="#F7F5EF" stroke="#171717" stroke-width="1.6"/>
+    <rect x="46" y="88" width="90" height="22" rx="4" fill="#D8F878" stroke="#171717" stroke-width="1.4"/>
+    <rect x="46" y="120" width="90" height="16" rx="4" fill="#FFFEFA" stroke="#171717" stroke-width="1.2"/>
+    <rect x="46" y="144" width="90" height="16" rx="4" fill="#FFFEFA" stroke="#171717" stroke-width="1.2"/>
+    <rect x="46" y="168" width="90" height="16" rx="4" fill="#FFFEFA" stroke="#171717" stroke-width="1.2"/>
+    <rect x="46" y="192" width="90" height="16" rx="4" fill="#EEF0FF" stroke="#5267FF" stroke-width="1.4"/>
+    <!-- Center Canvas -->
+    <rect x="160" y="74" width="234" height="246" rx="8" fill="#F7F5EF" stroke="#5267FF" stroke-width="2"/>
+    <rect x="172" y="86" width="210" height="24" rx="5" fill="#FFFEFA" stroke="#171717" stroke-width="1.5"/>
+    <rect x="172" y="120" width="210" height="94" rx="8" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+    <rect x="186" y="136" width="132" height="14" rx="4" fill="#FFFEFA"/>
+    <rect x="186" y="158" width="156" height="9" rx="4" fill="#D8F878"/>
+    <rect x="186" y="178" width="76" height="22" rx="5" fill="#D8F878" stroke="#171717" stroke-width="1.4"/>
+    <rect x="172" y="226" width="64" height="78" rx="6" fill="#FFFEFA" stroke="#171717" stroke-width="1.5"/>
+    <rect x="244" y="226" width="66" height="78" rx="6" fill="#FFFEFA" stroke="#171717" stroke-width="1.5"/>
+    <rect x="318" y="226" width="64" height="78" rx="6" fill="#FFFEFA" stroke="#171717" stroke-width="1.5"/>
+    <!-- Right Inspector -->
+    <rect x="408" y="74" width="114" height="246" rx="8" fill="#F7F5EF" stroke="#171717" stroke-width="1.6"/>
+    <text x="418" y="96" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#5267FF">INSPECTOR</text>
+    <rect x="418" y="110" width="94" height="24" rx="4" fill="#FFFEFA" stroke="#171717" stroke-width="1.3"/>
+    <rect x="418" y="144" width="44" height="24" rx="4" fill="#5267FF" stroke="#171717" stroke-width="1.3"/>
+    <rect x="468" y="144" width="44" height="24" rx="4" fill="#D8F878" stroke="#171717" stroke-width="1.3"/>
+    <rect x="418" y="182" width="94" height="44" rx="6" fill="#FFFEFA" stroke="#171717" stroke-width="1.3"/>
+    <rect x="418" y="280" width="94" height="26" rx="6" fill="#171717"/>
+    <text x="465" y="297" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9" fill="#D8F878">EXPORT HTML5</text>
+  
+</svg>

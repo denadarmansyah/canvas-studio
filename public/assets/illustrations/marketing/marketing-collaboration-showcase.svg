@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 420" width="640" height="420" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="640" height="420" rx="22" fill="#FFF0EC" stroke="#171717" stroke-width="2.5"/>
+    <rect x="16" y="16" width="608" height="388" rx="16" fill="url(#dotGrid)"/>
+    
+  <rect x="38" y="40" width="576" height="352" rx="18" fill="#171717"/>
+  <rect x="32" y="34" width="576" height="352" rx="18" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <rect x="32" y="34" width="576" height="46" rx="18" fill="#171717"/>
+    <text x="54" y="62" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#FFFEFA">REAL-TIME MULTIPLAYER CANVAS</text>
+    
+  <rect x="412" y="46" width="178" height="26" rx="13" fill="#171717"/>
+  <rect x="410" y="44" width="178" height="26" rx="13" fill="#D8F878" stroke="#171717" stroke-width="1.8"/>
+  <text x="499" y="60.15" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9" fill="#171717">SERVER ENFORCED ROLES</text>
+    <!-- 3 role columns -->
+    
+  <rect x="58" y="106" width="164" height="256" rx="12" fill="#171717"/>
+  <rect x="54" y="102" width="164" height="256" rx="12" fill="#EEF0FF" stroke="#171717" stroke-width="2.2"/>
+    <text x="72" y="132" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="16" fill="#5267FF">Editor</text>
+    <text x="72" y="156" font-family="DM Sans, sans-serif" font-size="11.5" fill="#171717">Full layout, style &amp;</text>
+    <text x="72" y="172" font-family="DM Sans, sans-serif" font-size="11.5" fill="#171717">artboard mutations</text>
+    
+  <rect x="74" y="298" width="128" height="32" rx="16" fill="#171717"/>
+  <rect x="72" y="296" width="128" height="32" rx="16" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+  <text x="136" y="315.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#FFFEFA">LIVE CURSORS</text>
+
+    
+  <rect x="242" y="106" width="164" height="256" rx="12" fill="#171717"/>
+  <rect x="238" y="102" width="164" height="256" rx="12" fill="#FFF0EC" stroke="#171717" stroke-width="2.2"/>
+    <text x="256" y="132" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="16" fill="#171717">Commenter</text>
+    <text x="256" y="156" font-family="DM Sans, sans-serif" font-size="11.5" fill="#171717">Pinned notes &amp; @mentions</text>
+    <text x="256" y="172" font-family="DM Sans, sans-serif" font-size="11.5" fill="#171717">with edit protection</text>
+    
+  <rect x="258" y="298" width="128" height="32" rx="16" fill="#171717"/>
+  <rect x="256" y="296" width="128" height="32" rx="16" fill="#FF987C" stroke="#171717" stroke-width="1.8"/>
+  <text x="320" y="315.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#171717">PIN REVIEWS</text>
+
+    
+  <rect x="426" y="106" width="164" height="256" rx="12" fill="#171717"/>
+  <rect x="422" y="102" width="164" height="256" rx="12" fill="#D8F878" stroke="#171717" stroke-width="2.2"/>
+    <text x="440" y="132" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="16" fill="#171717">Viewer</text>
+    <text x="440" y="156" font-family="DM Sans, sans-serif" font-size="11.5" fill="#171717">Read-only presentation</text>
+    <text x="440" y="172" font-family="DM Sans, sans-serif" font-size="11.5" fill="#171717">verified on WS server</text>
+    
+  <rect x="442" y="298" width="128" height="32" rx="16" fill="#171717"/>
+  <rect x="440" y="296" width="128" height="32" rx="16" fill="#FFFEFA" stroke="#171717" stroke-width="1.8"/>
+  <text x="504" y="315.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#171717">SAFE READONLY</text>
+    
+  <g transform="translate(190 218)">
+    <path d="M0 0L4.2 18L8.4 11.4L15.6 10.6L0 0Z" fill="#5267FF" stroke="#171717" stroke-width="1.8" stroke-linejoin="round"/>
+    <rect x="11" y="13" width="60.400000000000006" height="21" rx="6" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+    <text x="41.2" y="27" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="10.5" fill="#FFFEFA">Hannah</text>
+  </g>
+    
+  <g transform="translate(372 238)">
+    <path d="M0 0L4.2 18L8.4 11.4L15.6 10.6L0 0Z" fill="#FF987C" stroke="#171717" stroke-width="1.8" stroke-linejoin="round"/>
+    <rect x="11" y="13" width="53" height="21" rx="6" fill="#FF987C" stroke="#171717" stroke-width="1.8"/>
+    <text x="37.5" y="27" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="10.5" fill="#171717">David</text>
+  </g>
+  
+</svg>

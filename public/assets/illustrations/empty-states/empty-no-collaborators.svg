@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 240" width="360" height="240" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="360" height="240" rx="16" fill="#EEF0FF" stroke="#171717" stroke-width="2.2"/>
+    <rect x="12" y="12" width="336" height="216" rx="12" fill="url(#dotGrid)"/>
+    
+  <rect x="57" y="47" width="256" height="156" rx="14" fill="#171717"/>
+  <rect x="52" y="42" width="256" height="156" rx="14" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <circle cx="136" cy="108" r="24" fill="#5267FF" stroke="#171717" stroke-width="2"/>
+    <circle cx="224" cy="108" r="24" fill="#D8F878" stroke="#171717" stroke-width="2" stroke-dasharray="5 3"/>
+    <path d="M162 108H198" stroke="#171717" stroke-width="2" stroke-dasharray="4 3"/>
+    <path d="M216 108H232M224 100V116" stroke="#171717" stroke-width="2.4" stroke-linecap="round"/>
+    
+  <rect x="96" y="156" width="172" height="28" rx="14" fill="#171717"/>
+  <rect x="94" y="154" width="172" height="28" rx="14" fill="#D8F878" stroke="#171717" stroke-width="1.8"/>
+  <text x="180" y="171.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#171717">SHARE ROOM LINK</text>
+  
+</svg>

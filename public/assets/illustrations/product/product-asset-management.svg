@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 360" width="560" height="360" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="560" height="360" rx="18" fill="#FFF0EC" stroke="#171717" stroke-width="2.5"/>
+    <rect x="14" y="14" width="532" height="332" rx="12" fill="url(#fineGrid)"/>
+    
+  <rect x="34" y="34" width="504" height="304" rx="14" fill="#171717"/>
+  <rect x="28" y="28" width="504" height="304" rx="14" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <text x="48" y="58" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="16" fill="#171717">Studio Asset Library &amp; Uploads</text>
+    
+  <rect x="374" y="40" width="140" height="28" rx="14" fill="#171717"/>
+  <rect x="372" y="38" width="140" height="28" rx="14" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+  <text x="442" y="55.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#FFFEFA">+ UPLOAD SVG/PNG</text>
+    
+  <rect x="51" y="87" width="144" height="110" rx="10" fill="#171717"/>
+  <rect x="48" y="84" width="144" height="110" rx="10" fill="#EEF0FF" stroke="#171717" stroke-width="2.2"/>
+    <circle cx="120" cy="126" r="24" fill="#5267FF" stroke="#171717" stroke-width="1.8"/>
+    <text x="60" y="180" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">hero-mark.svg</text>
+    
+  <rect x="211" y="87" width="144" height="110" rx="10" fill="#171717"/>
+  <rect x="208" y="84" width="144" height="110" rx="10" fill="#D8F878" stroke="#171717" stroke-width="2.2"/>
+    <rect x="242" y="102" width="76" height="48" rx="6" fill="#FFFEFA" stroke="#171717" stroke-width="1.6"/>
+    <text x="220" y="180" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">product-shot.png</text>
+    
+  <rect x="371" y="87" width="144" height="110" rx="10" fill="#171717"/>
+  <rect x="368" y="84" width="144" height="110" rx="10" fill="#FFF0EC" stroke="#171717" stroke-width="2.2"/>
+    <polygon points="440,100 468,148 412,148" fill="#FF987C" stroke="#171717" stroke-width="1.8"/>
+    <text x="380" y="180" font-family="DM Mono, monospace" font-weight="700" font-size="10" fill="#171717">badge-set.webp</text>
+    <!-- Dropzone Bar -->
+    <rect x="48" y="216" width="464" height="92" rx="12" fill="#F7F5EF" stroke="#171717" stroke-width="2" stroke-dasharray="8 5"/>
+    <path d="M280 242V272M268 254L280 242L292 254" stroke="#5267FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="280" y="294" text-anchor="middle" font-family="DM Sans, sans-serif" font-weight="700" font-size="12" fill="#171717">Drop PNG, WebP, JPG, or SVG directly onto any Website or Artboard</text>
+  
+</svg>

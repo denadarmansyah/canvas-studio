@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 186 44" fill="none">
+  <path d="M10 9L30 6L36 13V33L13 37L6 30V13L10 9Z" fill="#171717"/>
+  <path d="M8 6L28 3L34 10V30L11 34L4 27V10L8 6Z" fill="#5267FF" stroke="#171717" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M12 11L25 9L28.5 13.5V24L14 27L9 22V14L12 11Z" fill="#D8F878" stroke="#171717" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="28" cy="26" r="5" fill="#FF987C" stroke="#171717" stroke-width="1.5"/>
+  <text x="45" y="23" fill="#171717" font-family="'Space Grotesk', -apple-system, sans-serif" font-weight="700" font-size="17" letter-spacing="-0.5">canvas studio</text>
+  <text x="45" y="35" fill="#6E6A62" font-family="'DM Mono', monospace" font-weight="600" font-size="8.5" letter-spacing="1.4">CREATIVE SUITE</text>
+</svg>

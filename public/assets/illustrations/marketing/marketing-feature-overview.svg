@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 420" width="640" height="420" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="640" height="420" rx="22" fill="#EEF0FF" stroke="#171717" stroke-width="2.5"/>
+    <rect x="16" y="16" width="608" height="388" rx="16" fill="url(#fineGrid)"/>
+    
+  <rect x="44" y="42" width="564" height="348" rx="18" fill="#171717"/>
+  <rect x="38" y="36" width="564" height="348" rx="18" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <text x="320" y="78" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="20" fill="#171717">Unified Token &amp; Workspace Architecture</text>
+    <path d="M180 184H460" stroke="#5267FF" stroke-width="3.5" stroke-dasharray="6 4"/>
+    
+  <rect x="68" y="118" width="152" height="138" rx="12" fill="#171717"/>
+  <rect x="64" y="114" width="152" height="138" rx="12" fill="#D8F878" stroke="#171717" stroke-width="2.2"/>
+    <text x="140" y="168" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">Brand Kit</text>
+    <text x="140" y="190" text-anchor="middle" font-family="DM Mono, monospace" font-size="10" fill="#171717">Colors + Fonts</text>
+    
+  <rect x="248" y="118" width="152" height="138" rx="12" fill="#171717"/>
+  <rect x="244" y="114" width="152" height="138" rx="12" fill="#5267FF" stroke="#171717" stroke-width="2.2"/>
+    <text x="320" y="168" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#FFFEFA">3 Editors</text>
+    <text x="320" y="190" text-anchor="middle" font-family="DM Mono, monospace" font-size="10" fill="#D8F878">Web · Gfx · Board</text>
+    
+  <rect x="428" y="118" width="152" height="138" rx="12" fill="#171717"/>
+  <rect x="424" y="114" width="152" height="138" rx="12" fill="#FF987C" stroke="#171717" stroke-width="2.2"/>
+    <text x="500" y="168" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">Real-Time</text>
+    <text x="500" y="190" text-anchor="middle" font-family="DM Mono, monospace" font-size="10" fill="#171717">WS Permissions</text>
+    
+  <rect x="68" y="282" width="512" height="80" rx="12" fill="#171717"/>
+  <rect x="64" y="278" width="512" height="80" rx="12" fill="#F7F5EF" stroke="#171717" stroke-width="2.2"/>
+    
+  <rect x="86" y="304" width="148" height="32" rx="16" fill="#171717"/>
+  <rect x="84" y="302" width="148" height="32" rx="16" fill="#FFFEFA" stroke="#171717" stroke-width="1.8"/>
+  <text x="158" y="321.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#171717">CLEAN BLANK CANVAS</text>
+    
+  <rect x="248" y="304" width="148" height="32" rx="16" fill="#171717"/>
+  <rect x="246" y="302" width="148" height="32" rx="16" fill="#FFFEFA" stroke="#171717" stroke-width="1.8"/>
+  <text x="320" y="321.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#5267FF">32 TEMPLATES</text>
+    
+  <rect x="410" y="304" width="148" height="32" rx="16" fill="#171717"/>
+  <rect x="408" y="302" width="148" height="32" rx="16" fill="#FFFEFA" stroke="#171717" stroke-width="1.8"/>
+  <text x="482" y="321.325" text-anchor="middle" font-family="DM Mono, monospace" font-weight="700" font-size="9.5" fill="#171717">HTML + SVG EXPORT</text>
+  
+</svg>

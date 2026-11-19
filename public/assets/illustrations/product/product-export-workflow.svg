@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 360" width="560" height="360" fill="none">
+  <defs>
+    <pattern id="dotGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.15" fill="#171717" opacity="0.12"/>
+    </pattern>
+    <pattern id="fineGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#171717" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+    <rect width="560" height="360" rx="18" fill="#171717"/>
+    <rect x="14" y="14" width="532" height="332" rx="12" fill="#212121" stroke="#5267FF" stroke-width="2"/>
+    <text x="38" y="52" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="18" fill="#FFFEFA">Production Code &amp; Print Export</text>
+    <path d="M168 184H224" stroke="#D8F878" stroke-width="3" stroke-dasharray="5 4"/>
+    
+  <rect x="42" y="112" width="130" height="152" rx="12" fill="#171717"/>
+  <rect x="38" y="108" width="130" height="152" rx="12" fill="#5267FF" stroke="#171717" stroke-width="2.2"/>
+    <text x="103" y="176" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#FFFEFA">STUDIO</text>
+    <text x="103" y="198" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#D8F878">SOURCE</text>
+    
+  <rect x="232" y="82" width="138" height="92" rx="10" fill="#171717"/>
+  <rect x="228" y="78" width="138" height="92" rx="10" fill="#D8F878" stroke="#171717" stroke-width="2.2"/>
+    <text x="297" y="118" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">HTML5 / CSS</text>
+    <text x="297" y="140" text-anchor="middle" font-family="DM Mono, monospace" font-size="9.5" fill="#171717">@media responsive</text>
+    
+  <rect x="232" y="196" width="138" height="92" rx="10" fill="#171717"/>
+  <rect x="228" y="192" width="138" height="92" rx="10" fill="#FFFEFA" stroke="#171717" stroke-width="2.2"/>
+    <text x="297" y="232" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">REACT TSX</text>
+    <text x="297" y="254" text-anchor="middle" font-family="DM Mono, monospace" font-size="9.5" fill="#5267FF">clean JSX tree</text>
+    
+  <rect x="394" y="82" width="134" height="92" rx="10" fill="#171717"/>
+  <rect x="390" y="78" width="134" height="92" rx="10" fill="#FF987C" stroke="#171717" stroke-width="2.2"/>
+    <text x="457" y="118" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">SVG / PNG</text>
+    <text x="457" y="140" text-anchor="middle" font-family="DM Mono, monospace" font-size="9.5" fill="#171717">2x transparent</text>
+    
+  <rect x="394" y="196" width="134" height="92" rx="10" fill="#171717"/>
+  <rect x="390" y="192" width="134" height="92" rx="10" fill="#F4C95D" stroke="#171717" stroke-width="2.2"/>
+    <text x="457" y="232" text-anchor="middle" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="15" fill="#171717">PDF / JSON</text>
+    <text x="457" y="254" text-anchor="middle" font-family="DM Mono, monospace" font-size="9.5" fill="#171717">print &amp; backup</text>
+  
+</svg>
